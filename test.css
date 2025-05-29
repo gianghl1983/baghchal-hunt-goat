@@ -1,0 +1,10 @@
+#mainWrap {
+  display:flex;
+  flex-direction:row-reverse;
+}
+#previewMain {
+  flex:30%;
+}
+#debuggerMain {
+  flex:59%;
+}
